@@ -62,3 +62,4 @@ The source code of a program is written in one or more languages that are intell
 * [C++](./list/cpp.md)
 * [Java](./list/java.md)
 * [Python](./list/python.md)
+* [Terms Every Programmer Should Know](./encyclopedia.md)
